@@ -18,6 +18,7 @@ This is a web-based chess game written in JavaScript that allows players to play
 
 - A web browser that supports JavaScript
 
+
 ## How to Use
 
 1. Download the program files or clone the repository to your computer.
