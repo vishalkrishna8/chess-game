@@ -30,3 +30,6 @@ This is a web-based chess game written in JavaScript that allows players to play
 6. If a player's king is in check, a message will be displayed to indicate it. The player must move the king or another piece to get out of check.
 7. The game ends when one player puts the other's king in checkmate.
 8. A message will be displayed to indicate the winner, and the game can be reset by clicking on the "New Game" button.
+
+## Show your support
+Give a ⭐ if you like this project. 
