@@ -1,4 +1,4 @@
-## Chess Game
+# Chess Game
 
 This is a web-based chess game written in JavaScript that allows players to play against computer. The program uses HTML, CSS, and JavaScript. 
 
