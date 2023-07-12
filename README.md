@@ -14,13 +14,13 @@ This is a web-based chess game written in JavaScript that allows players to play
 - Reset button to start a new game
 - Visual indication of selected pieces and possible moves
 
-### Requirements
+#### Requirements
 
 - A web browser that supports JavaScript
 
 
 
-### How to Use
+#### How to Use
 
 1. Download the program files or clone the repository to your computer.
 2. Open the `index.html` file in a web browser.
