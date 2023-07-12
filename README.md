@@ -6,7 +6,7 @@ This is a web-based chess game written in JavaScript that allows players to play
 # [Live Site](https://playnowchess.vercel.app/) 
 
 
-## Features
+#### Features
 
 - Standard chess rules and movements
 - Move validation and error handling
