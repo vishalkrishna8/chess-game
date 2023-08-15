@@ -33,3 +33,4 @@ This is a web-based chess game written in JavaScript that allows players to play
 
 #### Show your support
 Give a ⭐ if you like this project. 
+Don't forget to star the repo if you like it blush
