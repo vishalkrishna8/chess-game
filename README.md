@@ -32,5 +32,5 @@ This is a web-based chess game written in JavaScript that allows players to play
 8. A message will be displayed to indicate the winner, and the game can be reset by clicking on the "New Game" button.
 
 #### Show your support
-Give a ⭐ if you like this project. 
+<!-- Give a ⭐ if you like this project. -->
 Don't forget to star the repo if you like it blush
