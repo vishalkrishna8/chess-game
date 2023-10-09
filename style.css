@@ -1,7 +1,12 @@
 body {
     font-family: sans-serif;
     margin: auto;
-    background-color: rgb(80, 3, 31);
+    background: url(bgchess.jpeg) center center/cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;
+    min-height: 100vh;
 }
 
 .square {
